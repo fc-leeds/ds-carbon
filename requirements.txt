@@ -7,3 +7,5 @@ tqdm==4.66.4
 datetime
 requests
 sklearn
+numpy 
+seaborn
